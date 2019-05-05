@@ -39,9 +39,10 @@
 <br>
 <div align=center><img src="images/7.PNG" /></div>
 <br>
-在建立项目后，在VS的属性管理器中添加以上生成的属性表，即可使用opencv的相关库。
+在建立项目后，在VS的属性管理器中添加以上生成的属性表，即可使用opencv的相关库（如果运行提示找不到一些库，可以重启或者注销电脑，让环境变量加载进去）。
 <br>
 <div align=center><img src="images/15.PNG" /></div>
 <div align=center><img src="images/14.PNG" /></div>
 <br>
 
+&emsp;&emsp;**这个项目基础功能能实现，但肯定存在着诸多bug，另外这个程序的图标我换了半天，也没搞好，路过的大神有做过的，麻烦指点我一下，pyinstaller我弄了很长时间，那个.ico文件硬是添加不进去，为了不让自己患上忧郁症，我决定冷静一下。菜鸟作品，不喜勿喷！**
