@@ -1,12 +1,9 @@
 # opencv-vs环境自动配置工具
-<<<<<<< HEAD
-=======
-<br/>
->>>>>>> e57ce8757adc6183b1d039fc477c6b2cd53c1021
+<br>
 &emsp;&emsp;最近一直在学习pyqt,以前做东西，画界面一直是用的C++，最近一接触python画界面，感觉python真的对于护发有很大的好处。因为平时项目中，主要还是做图像方面比较多一些，也多将Visual Studio和opencv搭配使用，opencv的安装和在VS上的使用，对于初学者可能不是很友好，需要配置环境变量，然后在VS上配置属性表，之后才能使用，步骤有些繁琐，也很烦人，正好最近一直想找个小项目练练手，所以就写了这一个小的工具。
 1.下载opencv，解压到某个文件夹
 2.利用工具进行环境配置
-&emsp;&emsp;首先如图所示，选中启动程序，**点右键以管理员身份运行（因为需要更改注册表，所以采用这个方法）**，即可进入界面
+&emsp;&emsp;首先如图所示，选中启动程序，点右键以管理员身份运行（因为需要更改注册表，所以采用这个方法），即可进入界面
 <br>
 <div align=center><img src="images/1.PNG" /></div>
 <br>
@@ -43,13 +40,8 @@
 <div align=center><img src="images/7.PNG" /></div>
 <br>
 在建立项目后，在VS的属性管理器中添加以上生成的属性表，即可使用opencv的相关库。
-<<<<<<< HEAD
 <br>
 <div align=center><img src="images/15.PNG" /></div>
 <div align=center><img src="images/14.PNG" /></div>
 <br>
-=======
-<br/>![生成属性表](images/15.PNG)
-<br/>
-![生成属性表](images/14.PNG)
->>>>>>> e57ce8757adc6183b1d039fc477c6b2cd53c1021
+
